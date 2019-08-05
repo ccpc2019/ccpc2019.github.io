@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="main-pic-wrapper">
+  <img src="./../assets/POSTER.png">
+  <div class="main-pic-overlay"></div>
+  <div class="main-pic-overlay-text">
+    FAN X ALCUK<br />
+    프로그래밍 대회 2019
+  </div>
+</div>
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>
