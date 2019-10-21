@@ -37,13 +37,6 @@ ACM-ICPC를 준비하는 팀들의 연습기회가 될 수 있으며,
  ![](./assets/join.png)
 
 
-
-## 기획 및 검수자 모집
-
-CCPC 2019 본선 대회의 진행을 도와주실 분도 절찬리에 모집 중입니다.
-
-
-
 <script type="text/javascript">
   function lpad(num, pad_str, len) {
     var str = num.toString();
