@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 온라인 예선
+title: 사전 모임
 permalink: /qualifier/
 ---
 
