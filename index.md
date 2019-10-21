@@ -30,7 +30,7 @@ ACM-ICPC를 준비하는 팀들의 연습기회가 될 수 있으며,
 
 ## 참가 신청
 
-* QR Code
+* QR Code<br>
 ![](./assets/join.png)
 
 [GoogleForm](https://forms.gle/vzM6rZkgwwpyTqaY6)
