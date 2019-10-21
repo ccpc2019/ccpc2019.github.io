@@ -14,7 +14,9 @@ layout: default
 
 CCPC (Catholic univ Computer Programming Contest)는 가톨릭대학교 컴퓨터 정보 공학부 전공학회 FAN과, 알고리즘 문제해결 동아리 ALCUK의 연합으로 개최되는 대회입니다. 
 
-ACM-ICPC를 준비하는 팀들의 연습기회가 될 수 있으며,
+ACM-ICPC를 준비하는 팀들의 연습기회가 될 수 있으며, 
+각 기업 코딩테스트의 연습 기회도 충분히 될 수 있습니다.
+
 현재 후원을 구하는 중입니다.
 
 ## 대회 일정
